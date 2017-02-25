@@ -8,7 +8,7 @@ s.author            = { 'Name' => 'anjalidhawan64@gmail.com' }
 s.license           = { :type => 'MIT License', :file => 'LICENSE' }
 
 s.platform          = :ios
-s.source            = { :http => 'https://github.com/ammy123cool/SwyftSDKTestPods/blob/master/SwyftSDK.zip' }
+s.source            = { :http => 'https://github.com/ammy123cool/SwyftSDKTestPods/blob/master/SwyftSDK.zip?raw=true' }
 
 s.ios.deployment_target = '10.0'
 s.ios.vendored_frameworks = 'SwyftSDK.framework'
