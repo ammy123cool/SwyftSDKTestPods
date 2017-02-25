@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 s.name              = 'SwyftSDK'
-s.version           = 'v1.0'
+s.version           = '1.0'
 s.summary           = 'A really cool SDK that abstracts away the HTTP calls to Swyft api'
-s.homepage          = 'http://example.com/'
+s.homepage          = 'https://github.com/ammy123cool'
 
-s.author            = { 'Name' => 'sdk@example.com' }
-s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
+s.author            = { 'Name' => 'anjalidhawan64@gmail.com' }
+s.license           = { :type => 'MIT License', :file => 'LICENSE' }
 
 s.platform          = :ios
 s.source            = { :http => 'https://github.com/ammy123cool/SwyftSDKTestPods/blob/master/SwyftSDK.zip' }
